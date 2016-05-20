@@ -1,5 +1,5 @@
 # *Markdown-Tips (for Atom)*
-Lightening talk for Javascript 401
+Lightning talk for Javascript 401
 
 ## What is Markdown?
 
@@ -137,8 +137,8 @@ http://www.emoji-cheat-sheet.com/
 
 ## Resources Used
 
-http://daringfireball.net/projects/markdown/
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-http://dillinger.io/
-http://markdownpad.com/
-http://www.markdowntutorial.com/lesson/3/
+- http://daringfireball.net/projects/markdown/
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- http://dillinger.io/
+- http://markdownpad.com/
+- http://www.markdowntutorial.com/lesson/3/
