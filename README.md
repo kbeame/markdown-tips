@@ -112,6 +112,9 @@ Task Lists
 
 [link text- see anchor before Resources used](#abcd)
 
+[Resources](## Resources Used)
+
+
 ## Tables:
 
 | Header One     | Header Two     |
